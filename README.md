@@ -34,7 +34,7 @@ This project is a real-time tracking application that uses Node.js, Express, Soc
 3. Run the server:
 
    ```sh
-   nodemon index.js
+   node index.js
    ```
    
 4. Open your browser and navigate to `http://localhost:3000`.
